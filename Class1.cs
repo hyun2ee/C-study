@@ -9,7 +9,7 @@ namespace chapter03 {
         static void main(string[] args) {
             byte a = 10;
             sbyte b = -125;
-            Console.WriteLine("a = {0}, b = {1} hahaha", a, b);
+            Console.WriteLine("a = {0}, b = {1} hohoho", a, b);
         }
     }
 }
